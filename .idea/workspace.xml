@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="79d45831-e113-46f5-9c54-4c64e8456ee0" name="Changes" comment="4">
-      <change afterPath="$PROJECT_DIR$/31_10_2024/distance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/31_10_2024/strings.py" afterDir="false" />
+    <list default="true" id="79d45831-e113-46f5-9c54-4c64e8456ee0" name="Changes" comment="5">
+      <change afterPath="$PROJECT_DIR$/31_10_2024/flowers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/31_10_2024/paradox.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,6 +45,7 @@
     "Python.cum_sum_reverse.executor": "Run",
     "Python.delete_unnecessary.executor": "Run",
     "Python.diagonal_plus.executor": "Run",
+    "Python.flowers.executor": "Run",
     "Python.for_three.executor": "Run",
     "Python.from_a_to_b.executor": "Run",
     "Python.function.executor": "Run",
@@ -61,6 +62,7 @@
     "Python.odd_mult.executor": "Run",
     "Python.only_largest.executor": "Run",
     "Python.oscillations.executor": "Run",
+    "Python.paradox.executor": "Run",
     "Python.prod_diag.executor": "Run",
     "Python.random_vect.executor": "Run",
     "Python.row_cut.executor": "Run",
@@ -69,6 +71,7 @@
     "Python.snake_str.executor": "Run",
     "Python.square_matrix.executor": "Run",
     "Python.step_vectors.executor": "Run",
+    "Python.strings.executor": "Run",
     "Python.submatrix.executor": "Run",
     "Python.sum_func.executor": "Run",
     "Python.transpose.executor": "Run",
@@ -126,7 +129,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730889706847</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="5">
+      <option name="closed" value="true" />
+      <created>1730890616683</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1730890616683</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -134,6 +145,7 @@
     <MESSAGE value="2" />
     <MESSAGE value="3" />
     <MESSAGE value="4" />
-    <option name="LAST_COMMIT_MESSAGE" value="4" />
+    <MESSAGE value="5" />
+    <option name="LAST_COMMIT_MESSAGE" value="5" />
   </component>
 </project>
