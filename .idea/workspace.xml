@@ -4,46 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="79d45831-e113-46f5-9c54-4c64e8456ee0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/numpyUni.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24_10_2024/alternating.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24_10_2024/conture_10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24_10_2024/correl.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24_10_2024/cum_sum_reverse.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24_10_2024/diagonal_plus.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24_10_2024/from_a_to_b.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24_10_2024/index_array.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24_10_2024/largest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24_10_2024/mult_array_by_vect.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24_10_2024/multidimensional_matrix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24_10_2024/nearest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24_10_2024/odd_mult.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24_10_2024/prod_diag.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24_10_2024/random_vect.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24_10_2024/row_cut.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24_10_2024/scalar_mult.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24_10_2024/simple_in_matrix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24_10_2024/snake_str.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24_10_2024/square_matrix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24_10_2024/step_vectors.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24_10_2024/submatrix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24_10_2024/sum_func.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24_10_2024/transpose.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24_10_2024/turns.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24_10_2024/vect_len.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/31_10_2024/add_zeros.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/31_10_2024/alternating_sort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/31_10_2024/binary_matrix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/31_10_2024/box.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/31_10_2024/delete_unnecessary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/31_10_2024/for_three.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/31_10_2024/function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/31_10_2024/oscillations.py" afterDir="false" />
+    <list default="true" id="79d45831-e113-46f5-9c54-4c64e8456ee0" name="Changes" comment="1">
+      <change afterPath="$PROJECT_DIR$/31_10_2024/normalize_rows.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/31_10_2024/only_largest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,6 +54,7 @@
     "Python.multidimensional_matrix.executor": "Run",
     "Python.nearest.executor": "Run",
     "Python.odd_mult.executor": "Run",
+    "Python.only_largest.executor": "Run",
     "Python.oscillations.executor": "Run",
     "Python.prod_diag.executor": "Run",
     "Python.random_vect.executor": "Run",
@@ -124,6 +89,19 @@
       <option name="presentableId" value="Default" />
       <updated>1729751627254</updated>
     </task>
+    <task id="LOCAL-00001" summary="1">
+      <option name="closed" value="true" />
+      <created>1730887468078</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1730887468078</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
   </component>
 </project>
