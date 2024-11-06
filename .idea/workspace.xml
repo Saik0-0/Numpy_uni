@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="79d45831-e113-46f5-9c54-4c64e8456ee0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/numpyUni.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24_10_2024/alternating.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24_10_2024/conture_10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24_10_2024/correl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24_10_2024/cum_sum_reverse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24_10_2024/diagonal_plus.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24_10_2024/from_a_to_b.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24_10_2024/index_array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24_10_2024/largest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24_10_2024/mult_array_by_vect.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24_10_2024/multidimensional_matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24_10_2024/nearest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24_10_2024/odd_mult.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24_10_2024/prod_diag.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24_10_2024/random_vect.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24_10_2024/row_cut.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24_10_2024/scalar_mult.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24_10_2024/simple_in_matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24_10_2024/snake_str.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24_10_2024/square_matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24_10_2024/step_vectors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24_10_2024/submatrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24_10_2024/sum_func.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24_10_2024/transpose.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24_10_2024/turns.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24_10_2024/vect_len.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/31_10_2024/add_zeros.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/31_10_2024/alternating_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/31_10_2024/binary_matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/31_10_2024/box.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/31_10_2024/delete_unnecessary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/31_10_2024/for_three.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/31_10_2024/function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/31_10_2024/oscillations.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2nsAtnYTMK5bQUPhyAgIDZLakFz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.add_zeros.executor": "Run",
+    "Python.alternating.executor": "Run",
+    "Python.alternating_sort.executor": "Run",
+    "Python.binary_matrix.executor": "Run",
+    "Python.box.executor": "Run",
+    "Python.conture_10.executor": "Run",
+    "Python.correl.executor": "Run",
+    "Python.cum_sum_reverse.executor": "Run",
+    "Python.delete_unnecessary.executor": "Run",
+    "Python.diagonal_plus.executor": "Run",
+    "Python.for_three.executor": "Run",
+    "Python.from_a_to_b.executor": "Run",
+    "Python.function.executor": "Run",
+    "Python.index_array.executor": "Run",
+    "Python.largest.executor": "Run",
+    "Python.mult_array_by_vect.executor": "Run",
+    "Python.multidimensional_matrix.executor": "Run",
+    "Python.nearest.executor": "Run",
+    "Python.odd_mult.executor": "Run",
+    "Python.oscillations.executor": "Run",
+    "Python.prod_diag.executor": "Run",
+    "Python.random_vect.executor": "Run",
+    "Python.row_cut.executor": "Run",
+    "Python.scalar_mult.executor": "Run",
+    "Python.simple_in_matrix.executor": "Run",
+    "Python.snake_str.executor": "Run",
+    "Python.square_matrix.executor": "Run",
+    "Python.step_vectors.executor": "Run",
+    "Python.submatrix.executor": "Run",
+    "Python.sum_func.executor": "Run",
+    "Python.transpose.executor": "Run",
+    "Python.turns.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-5a2391486177-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13763.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="79d45831-e113-46f5-9c54-4c64e8456ee0" name="Changes" comment="" />
+      <created>1729751627254</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729751627254</updated>
+    </task>
+    <servers />
+  </component>
+</project>
