@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="79d45831-e113-46f5-9c54-4c64e8456ee0" name="Changes" comment="5">
-      <change afterPath="$PROJECT_DIR$/31_10_2024/flowers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/31_10_2024/paradox.py" afterDir="false" />
+    <list default="true" id="79d45831-e113-46f5-9c54-4c64e8456ee0" name="Changes" comment="6">
+      <change afterPath="$PROJECT_DIR$/07_10_2024/repair.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_10_2024/transition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/31_10_2024/petals.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,8 +64,10 @@
     "Python.only_largest.executor": "Run",
     "Python.oscillations.executor": "Run",
     "Python.paradox.executor": "Run",
+    "Python.petals.executor": "Run",
     "Python.prod_diag.executor": "Run",
     "Python.random_vect.executor": "Run",
+    "Python.repair.executor": "Run",
     "Python.row_cut.executor": "Run",
     "Python.scalar_mult.executor": "Run",
     "Python.simple_in_matrix.executor": "Run",
@@ -74,13 +77,24 @@
     "Python.strings.executor": "Run",
     "Python.submatrix.executor": "Run",
     "Python.sum_func.executor": "Run",
+    "Python.transition.executor": "Run",
     "Python.transpose.executor": "Run",
     "Python.turns.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/alexa/PycharmProjects/numpyUni/files"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\alexa\PycharmProjects\numpyUni\files" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\alexa\PycharmProjects\numpyUni\files" />
+      <recent name="C:\Users\alexa\PycharmProjects\numpyUni" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -137,7 +151,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730890616683</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="6">
+      <option name="closed" value="true" />
+      <created>1730921104822</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1730921104822</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -146,6 +168,7 @@
     <MESSAGE value="3" />
     <MESSAGE value="4" />
     <MESSAGE value="5" />
-    <option name="LAST_COMMIT_MESSAGE" value="5" />
+    <MESSAGE value="6" />
+    <option name="LAST_COMMIT_MESSAGE" value="6" />
   </component>
 </project>
