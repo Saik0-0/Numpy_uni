@@ -4,11 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="79d45831-e113-46f5-9c54-4c64e8456ee0" name="Changes" comment="6">
-      <change afterPath="$PROJECT_DIR$/07_10_2024/repair.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07_10_2024/transition.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/31_10_2024/petals.py" afterDir="false" />
+    <list default="true" id="79d45831-e113-46f5-9c54-4c64e8456ee0" name="Changes" comment="7">
+      <change afterPath="$PROJECT_DIR$/07_11_2024/japan.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_11_2024/night_mode.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_11_2024/shadow.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_10_2024/repair.py" beforeDir="false" afterPath="$PROJECT_DIR$/07_11_2024/repair.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_10_2024/transition.py" beforeDir="false" afterPath="$PROJECT_DIR$/07_11_2024/transition.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,6 +72,7 @@
     "Python.repair.executor": "Run",
     "Python.row_cut.executor": "Run",
     "Python.scalar_mult.executor": "Run",
+    "Python.shadow.executor": "Run",
     "Python.simple_in_matrix.executor": "Run",
     "Python.snake_str.executor": "Run",
     "Python.square_matrix.executor": "Run",
@@ -159,7 +162,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730921104822</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="7">
+      <option name="closed" value="true" />
+      <created>1730964258822</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1730964258822</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -169,6 +180,7 @@
     <MESSAGE value="4" />
     <MESSAGE value="5" />
     <MESSAGE value="6" />
-    <option name="LAST_COMMIT_MESSAGE" value="6" />
+    <MESSAGE value="7" />
+    <option name="LAST_COMMIT_MESSAGE" value="7" />
   </component>
 </project>
