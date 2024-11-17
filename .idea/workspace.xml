@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="79d45831-e113-46f5-9c54-4c64e8456ee0" name="Changes" comment="8">
-      <change afterPath="$PROJECT_DIR$/07_11_2024/smooth.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07_11_2024/transparency.py" afterDir="false" />
+    <list default="true" id="79d45831-e113-46f5-9c54-4c64e8456ee0" name="Changes" comment="9">
+      <change afterPath="$PROJECT_DIR$/07_11_2024/colored_squares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_11_2024/marks.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,6 +40,7 @@
     "Python.alternating_sort.executor": "Run",
     "Python.binary_matrix.executor": "Run",
     "Python.box.executor": "Run",
+    "Python.colored_squares.executor": "Run",
     "Python.conture_10.executor": "Run",
     "Python.correl.executor": "Run",
     "Python.cum_sum_reverse.executor": "Run",
@@ -53,6 +54,7 @@
     "Python.inverse.executor": "Run",
     "Python.largest.executor": "Run",
     "Python.manhattan.executor": "Run",
+    "Python.marks.executor": "Run",
     "Python.mult_array_by_vect.executor": "Run",
     "Python.multidimensional_matrix.executor": "Run",
     "Python.nearest.executor": "Run",
@@ -176,7 +178,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731854706319</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="9">
+      <option name="closed" value="true" />
+      <created>1731860902658</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1731860902658</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -188,6 +198,7 @@
     <MESSAGE value="6" />
     <MESSAGE value="7" />
     <MESSAGE value="8" />
-    <option name="LAST_COMMIT_MESSAGE" value="8" />
+    <MESSAGE value="9" />
+    <option name="LAST_COMMIT_MESSAGE" value="9" />
   </component>
 </project>
