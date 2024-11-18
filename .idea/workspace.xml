@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="79d45831-e113-46f5-9c54-4c64e8456ee0" name="Changes" comment="11">
-      <change afterPath="$PROJECT_DIR$/07_11_2024/fly_catcher.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07_11_2024/motley_crew.py" afterDir="false" />
+    <list default="true" id="79d45831-e113-46f5-9c54-4c64e8456ee0" name="Changes" comment="12">
+      <change afterPath="$PROJECT_DIR$/07_11_2024/waves.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_11_2024/fly_catcher.py" beforeDir="false" afterPath="$PROJECT_DIR$/07_11_2024/fly_catcher.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_11_2024/smooth.py" beforeDir="false" afterPath="$PROJECT_DIR$/07_11_2024/smooth.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,65 +34,67 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.add_zeros.executor": "Run",
-    "Python.alternating.executor": "Run",
-    "Python.alternating_sort.executor": "Run",
-    "Python.binary_matrix.executor": "Run",
-    "Python.box.executor": "Run",
-    "Python.colored_squares.executor": "Run",
-    "Python.conture_10.executor": "Run",
-    "Python.cool.executor": "Run",
-    "Python.correl.executor": "Run",
-    "Python.cum_sum_reverse.executor": "Run",
-    "Python.delete_unnecessary.executor": "Run",
-    "Python.diagonal_plus.executor": "Run",
-    "Python.flowers.executor": "Run",
-    "Python.fly_catcher.executor": "Run",
-    "Python.for_three.executor": "Run",
-    "Python.from_a_to_b.executor": "Run",
-    "Python.function.executor": "Run",
-    "Python.index_array.executor": "Run",
-    "Python.inverse.executor": "Run",
-    "Python.largest.executor": "Run",
-    "Python.manhattan.executor": "Run",
-    "Python.marks.executor": "Run",
-    "Python.mult_array_by_vect.executor": "Run",
-    "Python.multidimensional_matrix.executor": "Run",
-    "Python.nearest.executor": "Run",
-    "Python.neumann.executor": "Run",
-    "Python.normalize_columns.executor": "Run",
-    "Python.normalize_rows.executor": "Run",
-    "Python.odd_mult.executor": "Run",
-    "Python.only_largest.executor": "Run",
-    "Python.oscillations.executor": "Run",
-    "Python.paradox.executor": "Run",
-    "Python.petals.executor": "Run",
-    "Python.prod_diag.executor": "Run",
-    "Python.random_vect.executor": "Run",
-    "Python.repair.executor": "Run",
-    "Python.row_cut.executor": "Run",
-    "Python.scalar_mult.executor": "Run",
-    "Python.shadow.executor": "Run",
-    "Python.simple_in_matrix.executor": "Run",
-    "Python.smooth.executor": "Run",
-    "Python.snake_str.executor": "Run",
-    "Python.square_matrix.executor": "Run",
-    "Python.step_vectors.executor": "Run",
-    "Python.strings.executor": "Run",
-    "Python.submatrix.executor": "Run",
-    "Python.sum_func.executor": "Run",
-    "Python.transition.executor": "Run",
-    "Python.transpose.executor": "Run",
-    "Python.turn.executor": "Run",
-    "Python.turns.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/alexa/PycharmProjects/numpyUni/files"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.add_zeros.executor&quot;: &quot;Run&quot;,
+    &quot;Python.alternating.executor&quot;: &quot;Run&quot;,
+    &quot;Python.alternating_sort.executor&quot;: &quot;Run&quot;,
+    &quot;Python.binary_matrix.executor&quot;: &quot;Run&quot;,
+    &quot;Python.box.executor&quot;: &quot;Run&quot;,
+    &quot;Python.colored_squares.executor&quot;: &quot;Run&quot;,
+    &quot;Python.conture_10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cool.executor&quot;: &quot;Run&quot;,
+    &quot;Python.correl.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cum_sum_reverse.executor&quot;: &quot;Run&quot;,
+    &quot;Python.delete_unnecessary.executor&quot;: &quot;Run&quot;,
+    &quot;Python.diagonal_plus.executor&quot;: &quot;Run&quot;,
+    &quot;Python.eye.executor&quot;: &quot;Run&quot;,
+    &quot;Python.flowers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fly_catcher.executor&quot;: &quot;Run&quot;,
+    &quot;Python.for_three.executor&quot;: &quot;Run&quot;,
+    &quot;Python.from_a_to_b.executor&quot;: &quot;Run&quot;,
+    &quot;Python.function.executor&quot;: &quot;Run&quot;,
+    &quot;Python.index_array.executor&quot;: &quot;Run&quot;,
+    &quot;Python.inverse.executor&quot;: &quot;Run&quot;,
+    &quot;Python.largest.executor&quot;: &quot;Run&quot;,
+    &quot;Python.manhattan.executor&quot;: &quot;Run&quot;,
+    &quot;Python.marks.executor&quot;: &quot;Run&quot;,
+    &quot;Python.mult_array_by_vect.executor&quot;: &quot;Run&quot;,
+    &quot;Python.multidimensional_matrix.executor&quot;: &quot;Run&quot;,
+    &quot;Python.nearest.executor&quot;: &quot;Run&quot;,
+    &quot;Python.neumann.executor&quot;: &quot;Run&quot;,
+    &quot;Python.normalize_columns.executor&quot;: &quot;Run&quot;,
+    &quot;Python.normalize_rows.executor&quot;: &quot;Run&quot;,
+    &quot;Python.odd_mult.executor&quot;: &quot;Run&quot;,
+    &quot;Python.only_largest.executor&quot;: &quot;Run&quot;,
+    &quot;Python.oscillations.executor&quot;: &quot;Run&quot;,
+    &quot;Python.paradox.executor&quot;: &quot;Run&quot;,
+    &quot;Python.petals.executor&quot;: &quot;Run&quot;,
+    &quot;Python.prod_diag.executor&quot;: &quot;Run&quot;,
+    &quot;Python.random_vect.executor&quot;: &quot;Run&quot;,
+    &quot;Python.repair.executor&quot;: &quot;Run&quot;,
+    &quot;Python.row_cut.executor&quot;: &quot;Run&quot;,
+    &quot;Python.scalar_mult.executor&quot;: &quot;Run&quot;,
+    &quot;Python.shadow.executor&quot;: &quot;Run&quot;,
+    &quot;Python.simple_in_matrix.executor&quot;: &quot;Run&quot;,
+    &quot;Python.smooth.executor&quot;: &quot;Run&quot;,
+    &quot;Python.snake_str.executor&quot;: &quot;Run&quot;,
+    &quot;Python.square_matrix.executor&quot;: &quot;Run&quot;,
+    &quot;Python.step_vectors.executor&quot;: &quot;Run&quot;,
+    &quot;Python.strings.executor&quot;: &quot;Run&quot;,
+    &quot;Python.submatrix.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sum_func.executor&quot;: &quot;Run&quot;,
+    &quot;Python.transition.executor&quot;: &quot;Run&quot;,
+    &quot;Python.transpose.executor&quot;: &quot;Run&quot;,
+    &quot;Python.turn.executor&quot;: &quot;Run&quot;,
+    &quot;Python.turns.executor&quot;: &quot;Run&quot;,
+    &quot;Python.waves.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/alexa/PycharmProjects/numpyUni/files&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\alexa\PycharmProjects\numpyUni\files" />
@@ -205,7 +208,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731871541803</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="12">
+      <option name="closed" value="true" />
+      <created>1731879130537</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1731879130537</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -220,6 +231,7 @@
     <MESSAGE value="9" />
     <MESSAGE value="10" />
     <MESSAGE value="11" />
-    <option name="LAST_COMMIT_MESSAGE" value="11" />
+    <MESSAGE value="12" />
+    <option name="LAST_COMMIT_MESSAGE" value="12" />
   </component>
 </project>

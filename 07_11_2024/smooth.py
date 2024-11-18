@@ -16,6 +16,4 @@ def smooth(cort1, cort2):
     Image.fromarray(image).save('gradient.png')
 
 
-
-
 smooth((249, 82, 188), (162, 170, 253))
