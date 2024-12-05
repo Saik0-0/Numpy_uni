@@ -4,18 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="79d45831-e113-46f5-9c54-4c64e8456ee0" name="Changes" comment="13">
-      <change afterPath="$PROJECT_DIR$/07_11_2024/quasars.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/21_11_2024/equal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/21_11_2024/order.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/21_11_2024/rests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/21_11_2024/triangles.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/21_11_2024/waves.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/31_10_2024/Analysis.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/31_10_2024/Icecream.py" afterDir="false" />
+    <list default="true" id="79d45831-e113-46f5-9c54-4c64e8456ee0" name="Changes" comment="14">
+      <change afterPath="$PROJECT_DIR$/05_12_2024/Fallout.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_12_2024/Snow.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21_11_2024/coding.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21_11_2024/correlation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21_11_2024/decoding.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21_11_2024/fallout.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21_11_2024/herbicide.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07_11_2024/shadow.py" beforeDir="false" afterPath="$PROJECT_DIR$/07_11_2024/shadow.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/31_10_2024/petals.py" beforeDir="false" afterPath="$PROJECT_DIR$/31_10_2024/petals.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,25 +42,32 @@
   "keyToString": {
     "Python.Analysis.executor": "Run",
     "Python.Icecream.executor": "Run",
+    "Python.Snow.executor": "Run",
     "Python.add_zeros.executor": "Run",
     "Python.alternating.executor": "Run",
     "Python.alternating_sort.executor": "Run",
     "Python.binary_matrix.executor": "Run",
     "Python.box.executor": "Run",
+    "Python.coding.executor": "Run",
     "Python.colored_squares.executor": "Run",
     "Python.conture_10.executor": "Run",
     "Python.cool.executor": "Run",
     "Python.correl.executor": "Run",
+    "Python.correlation.executor": "Run",
     "Python.cum_sum_reverse.executor": "Run",
+    "Python.decoding.executor": "Run",
     "Python.delete_unnecessary.executor": "Run",
+    "Python.deviation.executor": "Run",
     "Python.diagonal_plus.executor": "Run",
     "Python.equal.executor": "Run",
     "Python.eye.executor": "Run",
+    "Python.fallout.executor": "Run",
     "Python.flowers.executor": "Run",
     "Python.fly_catcher.executor": "Run",
     "Python.for_three.executor": "Run",
     "Python.from_a_to_b.executor": "Run",
     "Python.function.executor": "Run",
+    "Python.herbicide.executor": "Run",
     "Python.index_array.executor": "Run",
     "Python.inverse.executor": "Run",
     "Python.largest.executor": "Run",
@@ -238,7 +242,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731963841172</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="14">
+      <option name="closed" value="true" />
+      <created>1732748461671</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1732748461671</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -255,6 +267,7 @@
     <MESSAGE value="11" />
     <MESSAGE value="12" />
     <MESSAGE value="13" />
-    <option name="LAST_COMMIT_MESSAGE" value="13" />
+    <MESSAGE value="14" />
+    <option name="LAST_COMMIT_MESSAGE" value="14" />
   </component>
 </project>
